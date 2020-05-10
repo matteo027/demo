@@ -1,0 +1,7 @@
+#Ignora tutto
+*
+
+#ad esccezione di
+!*.cpp
+!*.txt
+!.gitignore
